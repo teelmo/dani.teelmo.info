@@ -1,10 +1,10 @@
-# suisse.teelmo.info
+# dani.teelmo.info
 
-My Travel destinations
+Dani's todo
 
 ## Rights of usage
 
-Contact Teemo Tebest.
+Contact Daniela Stange
 
 ## How to build and develop
 
